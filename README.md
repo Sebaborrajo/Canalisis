@@ -2,8 +2,8 @@
 Canalisis
 =========
 
-#Git for data analysis
-=======================
+Git for data analysis
+======================
 
 Mean 
 
