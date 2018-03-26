@@ -1,8 +1,8 @@
 # Canalisis
 
-Git for data analysis
+#Git for data analysis
 
-*Mean
-*Std deviation
-*Bollinger
-*EMA
+##-Mean
+##-Std deviation
+##-Bollinger
+##-EMA
