@@ -2,13 +2,13 @@ from math import pow, sqrt
 class Canalisis():
     """Return the sample arithmetic mean of data."""
     @staticmethod
-    def mean(valores):
+    def mean(values):
         aux = 0
         if n < 1:
             raise ValueError('requires at least one data point')
-        for i in range(len(valores)):
+        for i in range(len(values)):
             aux += valores[i]
-        return aux/len(valores)
+        return aux/len(values)
 
     """
     Returns the exponential moving average
